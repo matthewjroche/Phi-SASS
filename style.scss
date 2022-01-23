@@ -1,0 +1,106 @@
+/*
+Theme Name:   Phi Theme Park WP Theme
+Description:  A custom theme for Phi Theme Park's WordPress website
+Author:       Matthew Roche 
+Version:      1.0
+Tags:         light, two-columns, right-sidebar, responsive-layout
+*/
+
+
+$fonts1: Helvetica, sans-serif;
+
+
+.main{
+    font:100% $fonts1;
+    background-color: rgb(168, 210, 245);
+
+}
+
+.post-content {
+    background-color: rgb(137, 196, 245);
+    font:100% $fonts1;
+
+}
+
+.page-content{
+    font:100% $fonts1;
+
+}
+
+.content{
+    font:100% $fonts1;
+    background-color: rgb(176, 218, 252);
+}
+
+.sidebar{
+    font:100% $fonts1;
+    background-color: rgb(137, 196, 245);
+}
+
+.site-footer{
+    font:100% $fonts1;
+    background-color: rgb(137, 196, 245);
+
+}
+
+.footer{
+    font:100% $fonts1;
+    background-color: rgb(137, 196, 245);
+
+}
+
+#site-footer{
+    font:100% $fonts1;
+    background-color: rgb(137, 196, 245);
+
+}
+
+.copyright{
+    font:100% $fonts1;
+
+}
+
+.awards-post {
+    background-color: rgb(255, 202, 231);
+    font:100% $fonts1;
+
+}
+
+.suppliers-post {
+    background-color: rgb(249, 250, 176);
+    font:100% $fonts1;
+
+}
+
+.about-us-content {
+    background-color: rgb(253, 216, 174);
+    font:100% $fonts1;
+
+}
+
+
+#main-header{
+    background-color: aqua;
+    font:100% $fonts1;
+
+}
+
+.tickettable1{
+    font:100% $fonts1;
+
+}
+
+#site-navigation{
+    font:100% $fonts1;
+    background-color: rgb(143, 5, 136);
+    position: relative;
+	top: var(--admin-bar--height);
+
+}
+
+.gallery1{
+    scale: auto;
+    display:flex;
+    flex-direction: row;
+    
+}
